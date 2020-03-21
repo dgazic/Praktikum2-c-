@@ -1,0 +1,6 @@
+C:\Users\dinnz\source\repos\mini_projekt1\mini_projekt1\bin\Debug\mini_projekt1.exe.config
+C:\Users\dinnz\source\repos\mini_projekt1\mini_projekt1\bin\Debug\mini_projekt1.exe
+C:\Users\dinnz\source\repos\mini_projekt1\mini_projekt1\bin\Debug\mini_projekt1.pdb
+C:\Users\dinnz\source\repos\mini_projekt1\mini_projekt1\obj\Debug\mini_projekt1.csprojAssemblyReference.cache
+C:\Users\dinnz\source\repos\mini_projekt1\mini_projekt1\obj\Debug\mini_projekt1.exe
+C:\Users\dinnz\source\repos\mini_projekt1\mini_projekt1\obj\Debug\mini_projekt1.pdb
